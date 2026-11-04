@@ -1,0 +1,8 @@
+# 논문 원문과 팀원 분해 시트 — GitHub에 올리지 않는다
+data/
+
+.DS_Store
+__pycache__/
+~$*
+
+.venv/
